@@ -1,0 +1,11 @@
+══════════════════════════════════════
+  Çekmece — Kişisel Not
+══════════════════════════════════════
+
+"Laboratuvardaki anahtarlar hep deneme
+olarak kalıyor. Gerçek anahtar her zaman
+güvenlik biriminden çıkar."
+
+  — Mehmet, Sistem Mimarı
+
+══════════════════════════════════════

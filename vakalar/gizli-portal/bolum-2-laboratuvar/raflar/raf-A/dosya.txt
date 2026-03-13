@@ -1,0 +1,16 @@
+══════════════════════════════════════
+  Raf A — İrem'in Deney Dosyası
+══════════════════════════════════════
+
+Deney No  : #41-A
+Hazırlayan: İrem, Şifre Uzmanı
+Durum     : Deneme
+
+Üretilen anahtar adayı:
+
+  ➤ YILDIZ
+
+Not: Bu anahtar şifreleme testlerinde
+kullanıldı. Güvenlik onayı bekleniyor.
+
+══════════════════════════════════════

@@ -1,0 +1,16 @@
+══════════════════════════════════════
+  NEXUS Şifre Laboratuvarı
+  Deney Kayıt Defteri
+══════════════════════════════════════
+
+Deney #41 — Anahtar Üretim Testleri
+
+Bu laboratuvarda çeşitli portal anahtar
+adayları test edildi. Sonuçlar raflarda
+ve çekmecede arşivlendi.
+
+Not: Buradaki anahtarlar DENEME amaçlıdır.
+Nihai anahtar güvenlik birimi tarafından
+onaylanır.
+
+══════════════════════════════════════

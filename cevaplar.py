@@ -12,7 +12,7 @@ cevaplar = {
 
     # 🌀 Portal 1 — Hoşgeldin Portalı (Gülşah)
     # İpucu: vakalar/vaka-01.md dosyasını oku
-    "vaka1": "",
+    "vaka1": "YILMAZ KEMAL YUCE",
 
     # 🌀 Portal 2 — Sayı Matrisi (Serhat)
     # İpucu: vakalar/vaka-02.md dosyasını oku

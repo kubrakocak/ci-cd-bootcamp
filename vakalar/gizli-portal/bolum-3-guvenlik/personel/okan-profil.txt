@@ -1,0 +1,17 @@
+══════════════════════════════════════
+  NEXUS Personel Dosyası
+══════════════════════════════════════
+
+Ad       : Okan
+Unvan    : Güvenlik Uzmanı
+Ekip     : NEXUS Core Crew
+Yetki    : Seviye 5 — Tam Erişim
+
+Atanmış Kasa : kasa-7
+Sorumluluk   : Portal anahtar yönetimi
+
+Not: Tüm portal anahtarları Okan'ın
+kasasında saklanır ve onun onayıyla
+aktif hale gelir.
+
+══════════════════════════════════════

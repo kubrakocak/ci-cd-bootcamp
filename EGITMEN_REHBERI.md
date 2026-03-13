@@ -36,9 +36,11 @@ Portal 2  — ALKÜ       (6×6 Matris: (1,B)=4-3=1→A, (2,D)=15-3=12→L,
 Portal 3  — CESARET    (8-bit Binary: 00000011=3→C, 00000101=5→E,
                          00010011=19→S, 00000001=1→A, 00010010=18→R,
                          00000101=5→E, 00010100=20→T)
-Portal 4  — EVREN      (vakalar/.okan-gizli-portal.txt dosyasında.
-                         DİKKAT: .nexus-kayip-veri.txt ve
-                         .irem-sifre-defteri.txt tuzak dosyalardır!)
+Portal 4  — EVREN      (vakalar/gizli-portal/bolum-3-guvenlik/kasalar/kasa-7/icerik.txt
+                         Labirentte 4 sahte şifre var: YILDIZ (raf-A),
+                         COSMOS (alarm kaydı), GALAKSI (kasa-3), ve boş kasa-5.
+                         İpucu zinciri: mesajlar.txt → sohbet-okan.txt →
+                         okan-profil.txt → kasa-7)
 Portal 5  — ROTA       (Yol izleme: (1,1)→sağa3→(1,4)=R, aşağı2→(3,4)=O,
                          sola1→(3,3)=T, aşağı1→(4,3)=A)
 Portal 6  — ANAHTAR    (Vigenère, anahtar=NEXUS:
@@ -102,7 +104,7 @@ Son reveal: "Core Crew'un aradığı yeni koruyucular... SİZSİNİZ!"
 
 **Eğitmen Stratejisi:**
 - Sınıfta dolaşın, tıkananlara ipucu verin (çözümü DEĞİL!)
-- 5. dakikada: "Portal 4'te `vakalar/` klasörüne dikkatli bakın, birden fazla gizli dosya var ama bazıları tuzak!" genel ipucu
+- 5. dakikada: "Portal 4'te `gizli-portal/` labirentini keşfedin, dosyaları sadece açmayın — kimin yazdığına dikkat edin!" genel ipucu
 - 10. dakikada: "Portal 6'daki Vigenère tablosunu satır satır takip edin" ipucu
 - 15. dakikada: "Portal 7'de sadece TEK numaralı satırlar!" hatırlatma
 - 20. dakikada: "Portal 9'da 5 koşulu sırayla uygulayın, acele etmeyin" ipucu
@@ -133,7 +135,7 @@ Son reveal: "Core Crew'un aradığı yeni koruyucular... SİZSİNİZ!"
 | Commit yapamıyor | GitHub hesabında email doğrulaması gerekli olabilir |
 | Actions çalışmıyor | Settings → Actions → "Allow all" kontrol |
 | Pages deploy olmuyor | Settings → Pages → Source: "GitHub Actions" seçili mi? |
-| Portal 4: Gizli dosyayı bulamıyor | GitHub'da `vakalar/` klasörüne tıkla, nokta ile başlayan dosyalara dikkat. Birden fazla var, tuzaklara kanma! |
+| Portal 4: Anahtarı bulamıyor | `gizli-portal/` klasöründe 3 bölüm var. İletişim bölümündeki yazışmaları okusunlar — Okan kasasından bahsediyor. Güvenlik birimi → personel → Okan'ın profili → atanmış kasa numarasını bulsunlar |
 | Portal 6: Vigenère anlaşılmıyor | Tabloyu satır satır takip etmelerini söyleyin. Anahtar satırında şifreli harfi bul, sütun başlığı cevap |
 | Portal 7: Yanlış satırları alıyor | "Sadece TEK numaralı satırlar!" vurgulayın |
 | Portal 8: Parazit ayıklayamıyor | "Tek sıradaki sinyaller gerçek!" hatırlatın |
@@ -160,7 +162,7 @@ Tahtaya veya Google Sheet'e:
 
 Bu format, yapay zekaya yapıştırarak çözmeyi zorlaştırır çünkü:
 
-1. **Portal 4** repo içinde fiziksel dosya aramayı + tuzak ayıklamayı gerektirir
+1. **Portal 4** repo içinde klasör labirentini keşfetmeyi + tuzak ayıklamayı gerektirir
 2. **Portal 10** diğer 9 cevabı bilmeyi gerektirir (tek seferde çözülemez)
 3. Bulmacalar bağlam gerektirir (matrisler, tablolar, dosya yapısı)
 4. **Vigenère** ve **filtrelenmiş akrostiş** çok adımlı düşünme gerektirir

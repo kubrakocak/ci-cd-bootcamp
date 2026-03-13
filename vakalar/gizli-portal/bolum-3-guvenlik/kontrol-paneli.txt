@@ -1,0 +1,16 @@
+══════════════════════════════════════
+  NEXUS Güvenlik Birimi
+  Kontrol Paneli
+══════════════════════════════════════
+
+Sistem Durumu  : AKTİF
+Kasalar        : 3 adet (kasa-3, kasa-5, kasa-7)
+Son Erişim     : Okan, Güvenlik Uzmanı
+Alarm Durumu   : 1 yeni kayıt
+
+Bölümler:
+  📋 alarm-kayitlari/  — Sistem alarmları
+  👤 personel/         — Personel dosyaları
+  🔐 kasalar/          — Güvenli depolama
+
+══════════════════════════════════════

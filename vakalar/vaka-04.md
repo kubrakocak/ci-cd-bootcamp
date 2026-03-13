@@ -3,37 +3,34 @@
 ```
 ╔════════════════════════════════════════╗
 ║  NEXUS Portal Sistemi — Portal 4/10   ║
-║  Tür: Dosya Keşfi + Tuzak Ayıklama    ║
+║  Tür: Dosya Keşfi + Tuzak Ayıklama   ║
 ╚════════════════════════════════════════╝
 ```
 
 Okan, NEXUS'un güvenlik uzmanı olarak bu portalın anahtarını
-**gizli dosyaların** içine sakladı. Ama dikkat — Okan birden
-fazla gizli dosya bırakmış ve **bazıları tuzak!**
+bir **labirentin** derinliklerine sakladı. `vakalar/` klasörünün
+içinde `gizli-portal/` adında bir klasör var — keşfe oradan başla.
+
+Ama dikkat — labirentte birden fazla şifre bulacaksın.
+**Hangisi gerçek, hangisi değil?** Bunu anlamak için dosyaları
+sadece açmak yetmez — **okuduklarını birbirine bağlaman** gerekiyor.
 
 ---
 
-## Bilgi: Gizli Dosyalar
-
-Yazılım dünyasında, dosya adı **nokta (.) ile başlıyorsa** dosya
-"gizli" sayılır. Bu dosyalar normalde görünmez ama GitHub'da
-`vakalar/` klasörüne tıkladığında aslında listelenirler —
-**dikkatli bakarsan** fark edebilirsin!
-
 ## Görev
 
-GitHub'da `vakalar/` klasörüne git ve dosya listesine **çok dikkatli** bak.
-Orada normal portal dosyalarından farklı, `.` ile başlayan **birden
-fazla dosya** var. Hepsini aç ve incele.
+1. GitHub'da `vakalar/gizli-portal/` klasörüne git
+2. Giriş notunu oku
+3. Tüm bölümleri keşfet — klasörlerin içinde klasörler var
+4. Birden fazla şifre bulacaksın ama **sadece biri gerçek**
+5. Dosyalardaki ipuçlarını takip ederek doğru anahtarı bul
 
-**Ama dikkat:** Tuzak dosyalarına kanma! Gerçek anahtarı içeren
-dosyayı bulmak senin görevin.
+**Okan'ın notu:** *"Bir güvenlik uzmanı anahtarını herkese
+açık yere bırakmaz. Kimin ne yazdığına, kimin yetkili
+olduğuna dikkat et."*
 
-Okan'ın notu: *"Bir güvenlik uzmanının dosyasını ara.
-Tuzaklar seni yanıltmasın."*
-
-> İpucu: Birden fazla gizli dosya var. Hepsini oku — sadece biri
-> gerçek portal anahtarını içeriyor.
+> İpucu: Sadece dosyaları açma — **kim yazmış** ve **nereye
+> koymuş** ona da bak. Yazışmalarda önemli detaylar gizli.
 
 ---
 

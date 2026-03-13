@@ -1,15 +1,14 @@
 ╔════════════════════════════════════════════════════╗
 ║                                                    ║
-║   🔐 İrem'in Şifre Defteri                        ║
+║   🌀 NEXUS Gizli Portal Labirenti                  ║
 ║                                                    ║
-║   "Şifreler her yerdedir ama anahtarlar            ║
-║    sadece doğru yerde bulunur..."                  ║
+║   Bu labirentte 3 bölüm var:                       ║
 ║                                                    ║
-║   Bu defter ilginç bilgiler içeriyor ama           ║
-║   portal anahtarı burada değil.                    ║
+║   📡 bolum-1-iletisim  — Ekip yazışmaları          ║
+║   🔬 bolum-2-laboratuvar — Deney kayıtları         ║
+║   🛡️  bolum-3-guvenlik — Güvenlik birimi            ║
 ║                                                    ║
-║   İpucu: Güvenlik uzmanının dosyasını ara.         ║
-║                                                    ║
-║   — İrem, NEXUS Core Crew / Şifre Uzmanı          ║
+║   Portal anahtarı bu bölümlerden birinde gizli.    ║
+║   Keşfet, oku, bağlantıları kur.                  ║
 ║                                                    ║
 ╚════════════════════════════════════════════════════╝

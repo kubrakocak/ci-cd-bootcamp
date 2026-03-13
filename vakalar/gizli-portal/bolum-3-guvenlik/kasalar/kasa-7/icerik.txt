@@ -1,0 +1,13 @@
+══════════════════════════════════════
+  🔐 Kasa 7 — İçerik
+══════════════════════════════════════
+
+Kasa Sahibi  : Okan, Güvenlik Uzmanı
+Kayıt Tarihi : ████-██-██
+Yetki Seviyesi: 5
+
+Saklanan portal anahtarı:
+
+  ➤ EVREN
+
+══════════════════════════════════════
