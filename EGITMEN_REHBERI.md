@@ -45,7 +45,10 @@ Portal 5  — ROTA       (Yol izleme: (1,1)→sağa3→(1,4)=R, aşağı2→(3,4
                          sola1→(3,3)=T, aşağı1→(4,3)=A)
 Portal 6  — ANAHTAR    (Vigenère, anahtar=NEXUS:
                          N→N=A, R→E=N, X→X=A, B→U=H, L→S=T, N→N=A, V→E=R)
-Portal 7  — LABİRENT   (Filtrelenmiş akrostiş: tek satırlar → L-A-B-I-R-E-N-T)
+Portal 7  — LABİRENT   (Filtrelenmiş akrostiş: 3 şekil grubu (◆ ■ ●),
+                         ◆ satırları → L-A-B-İ-R-E-N-T (doğru cevap),
+                         ■ satırları → K-A-Y-B-O-L-M-A (tuzak kelime!)
+                         Bilmece: "düz duran=■ aldatır, eğik duran=◆ aydınlatır")
 Portal 8  — ARAYIŞ     (Parazitli Mors: tek sıra sinyaller →
                          .-=A, .-.=R, .-=A, -.--=Y, ..=I, ...=S)
 Portal 9  — REHBER     (10 muhafız, 5 koşul:
@@ -106,7 +109,7 @@ Son reveal: "Core Crew'un aradığı yeni koruyucular... SİZSİNİZ!"
 - Sınıfta dolaşın, tıkananlara ipucu verin (çözümü DEĞİL!)
 - 5. dakikada: "Portal 4'te `gizli-portal/` labirentini keşfedin, dosyaları sadece açmayın — kimin yazdığına dikkat edin!" genel ipucu
 - 10. dakikada: "Portal 6'daki Vigenère tablosunu satır satır takip edin" ipucu
-- 15. dakikada: "Portal 7'de sadece TEK numaralı satırlar!" hatırlatma
+- 15. dakikada: "Portal 7'de ◆ ve ■ şekillerine dikkat — Kaya'nın bilmecesi hangisini seçeceğinizi söylüyor!" hatırlatma
 - 20. dakikada: "Portal 9'da 5 koşulu sırayla uygulayın, acele etmeyin" ipucu
 - Hızlı çözenleri yavaş olanlara eşleyin (pair çalışma)
 - **Canlı scoreboard** tutun (aşağıdaki şablona bakın)
@@ -137,7 +140,7 @@ Son reveal: "Core Crew'un aradığı yeni koruyucular... SİZSİNİZ!"
 | Pages deploy olmuyor | Settings → Pages → Source: "GitHub Actions" seçili mi? |
 | Portal 4: Anahtarı bulamıyor | `gizli-portal/` klasöründe 3 bölüm var. İletişim bölümündeki yazışmaları okusunlar — Okan kasasından bahsediyor. Güvenlik birimi → personel → Okan'ın profili → atanmış kasa numarasını bulsunlar |
 | Portal 6: Vigenère anlaşılmıyor | Tabloyu satır satır takip etmelerini söyleyin. Anahtar satırında şifreli harfi bul, sütun başlığı cevap |
-| Portal 7: Yanlış satırları alıyor | "Sadece TEK numaralı satırlar!" vurgulayın |
+| Portal 7: Yanlış şekli takip ediyor | "Kaya'nın bilmecesini tekrar oku — ◆ ve ■ arasındaki fark ne? Hangisi 'eğik duruyor'?" ipucu verin. KAYBOLMA çıktıysa ■ takip etmişler — ◆ denesinler! |
 | Portal 8: Parazit ayıklayamıyor | "Tek sıradaki sinyaller gerçek!" hatırlatın |
 | Portal 9: Çok muhafız var | Adım adım tahtada birlikte eleyin |
 | Türkçe karakter sorunu | Test normalizer var, büyük/küçük + Türkçe fark etmez |
